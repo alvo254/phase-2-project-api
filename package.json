@@ -1,0 +1,22 @@
+{
+  "name": "phase-2-project-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/alvo254/phase-2-project-api.git"
+  },
+  "author": "Alvin Ndung'u",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvo254/phase-2-project-api/issues"
+  },
+  "homepage": "https://github.com/alvo254/phase-2-project-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
