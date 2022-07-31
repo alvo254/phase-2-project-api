@@ -5,20 +5,26 @@
             "image": "images/adidas.png",
             "review":
               "I made the right choice by choosing the fitness-hero and by choosing the right plan and program I already achieved my ideal body!",
-            "name": "MATHEW HENDRICKSON",
+            "name": "Ryan Stone",
             "status" : "ENTREPRENEUR"
           },
           {
             "image": "image",
             "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ",
-            "name ":"JOHN KEVIN",
+            "name ":"Barry Hill",
             "status": "Trainer"
           },
           {
             "image" : "image3",
             "review":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem",
             "name": "FRANKLIN",
-            "status": "CUSTOMER"
+            "status": "Client"
           }
+    ],
+    "programs":[
+      {
+        "heading": "Strength Training",
+        "details":"In this program, you are trained to improve your strength through many exercises.",
+      }
     ]
 }
