@@ -20,11 +20,5 @@
             "name": "FRANKLIN",
             "status": "Client"
           }
-    ],
-    "programs":[
-      {
-        "heading": "Strength Training",
-        "details":"In this program, you are trained to improve your strength through many exercises.",
-      }
     ]
 }
